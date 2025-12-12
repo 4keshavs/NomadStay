@@ -1,0 +1,14 @@
+# Environment Variables (keep ignored)
+.env
+.env.local
+.env.production
+.env.staging
+
+# Dependencies (keep ignored)
+node_modules/
+npm-debug.log
+
+# But INCLUDE these:
+# index.html       (MAKE SURE NOT IGNORED)
+# assets/          (MAKE SURE NOT IGNORED)
+# vercel.json      (MAKE SURE NOT IGNORED)
